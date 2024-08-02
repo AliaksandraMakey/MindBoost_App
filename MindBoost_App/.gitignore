@@ -9,3 +9,11 @@
 *.xcuserdatad
 *.xcscmblueprint
 *.xcuserstate
+
+# Ignore Pods
+Pods/
+Podfile.lock
+
+# Ignore build artifacts
+DerivedData/
+build/
