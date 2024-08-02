@@ -1,0 +1,6 @@
+framework module Pods_MindBoost_App {
+  umbrella header "Pods-MindBoost_App-umbrella.h"
+
+  export *
+  module * { export * }
+}

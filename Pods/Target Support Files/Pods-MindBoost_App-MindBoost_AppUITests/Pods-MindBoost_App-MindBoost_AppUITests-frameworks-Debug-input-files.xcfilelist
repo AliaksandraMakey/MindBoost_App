@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-MindBoost_App-MindBoost_AppUITests/Pods-MindBoost_App-MindBoost_AppUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
