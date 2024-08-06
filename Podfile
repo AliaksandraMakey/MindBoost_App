@@ -10,7 +10,7 @@ target 'MindBoost_App' do
 
   target 'MindBoost_AppTests' do
     inherit! :search_paths
-    # Pods for testing
+    # Pods for testingН
   end
 
   target 'MindBoost_AppUITests' do

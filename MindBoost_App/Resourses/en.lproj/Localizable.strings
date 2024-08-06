@@ -1,0 +1,47 @@
+
+//Button
+"continue" = "Continue";
+//Onboarding
+"select_language" = "Select language";
+"set_name" = "Your name, please";
+"select_category" = "Select your preferred categories";
+"select_gender" = "Select your gender";
+"select_background" = "Select your background";
+//Tab bar item
+"categorie" = "Categories";
+"allAffirmations" = "All Affirmations";
+"favoriteAffirmations" = "Favorite Affirmations";
+"userSettings" = "User Settings";
+
+//Settings
+"userName" = "Name";
+"userGender" = "Gender";
+"userNotSpecified" = "Not specified";
+"userLanguage" = "Language";
+"userBackground" = "Background";
+"userFavoriteCategories" = "Favorite Categories";
+
+//Affirmations
+"love_affirmation_1" = "I am worthy of love and deserve to receive love in abundance";
+"love_affirmation_2" = "My heart is open to giving and receiving love";
+"love_affirmation_3" = "I am surrounded by love every day and in every way";
+"love_affirmation_4" = "I attract love and loving relationships into my life";
+"love_affirmation_5" = "Love flows to me and through me effortlessly";
+"love_affirmation_6" = "I radiate love and others reflect love back to me";
+"love_affirmation_7" = "My relationships are filled with love, happiness, and respect";
+"love_affirmation_8" = "I am grateful for the love that surrounds me";
+"love_affirmation_9" = "Love comes to me easily and effortlessly";
+"love_affirmation_10" = "I am a magnet for loving and fulfilling relationships";
+
+
+"friend_affirmation_1" = "I am surrounded by supportive and loving friends";
+"friend_affirmation_2" = "I attract positive and loyal friendships into my life";
+"friend_affirmation_3" = "My friends and I share mutual respect and trust";
+"friend_affirmation_4" = "I am a kind and caring friend, and I receive the same in return";
+"friend_affirmation_5" = "My friendships are filled with joy, laughter, and understanding";
+"friend_affirmation_6" = "I am grateful for the amazing friends in my life";
+"friend_affirmation_7" = "I nurture and cherish my friendships";
+"friend_affirmation_8" = "I attract friends who support and uplift me";
+"friend_affirmation_9" = "My friends and I grow together in love and harmony";
+"friend_affirmation_10" = "I am a magnet for genuine and lasting friendships";
+
